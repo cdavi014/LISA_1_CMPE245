@@ -7,8 +7,6 @@
 
 #include "my_lisa.h"
 
-
-
 void main() {
     time_t t;
     srand((unsigned) time(&t));  // seed for repeatable results
